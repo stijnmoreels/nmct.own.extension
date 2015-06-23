@@ -6,3 +6,6 @@ C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extensio
 C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv.test\obj\Debug\nmct.own.extension.csv.test.csprojResolveAssemblyReference.cache
 C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv.test\obj\Debug\nmct.own.extension.csv.test.exe
 C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv.test\obj\Debug\nmct.own.extension.csv.test.pdb
+C:\Users\stijn\Documents\GitHub\nmct.own.extension\nmct.own.extension.csv.test\bin\Debug\nmct.own.extension.csv.test.exe.config
+C:\Users\stijn\Documents\GitHub\nmct.own.extension\nmct.own.extension.csv.test\obj\Debug\nmct.own.extension.csv.test.exe
+C:\Users\stijn\Documents\GitHub\nmct.own.extension\nmct.own.extension.csv.test\obj\Debug\nmct.own.extension.csv.test.pdb

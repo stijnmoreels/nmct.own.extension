@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nmct.own.extension.csv
+namespace CsvExtension
 {
-    public static class CsvExtension
+    public static class CsvExtensionClass
     {
         public static string ToCsv<T>(this IEnumerable<T> items, string seperator = ";") where T : class
         {

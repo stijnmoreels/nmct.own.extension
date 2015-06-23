@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using nmct.own.extension.csv;
+using CsvExtension;
 using System.Diagnostics;
 
-namespace nmct.own.extension.csv.test
+namespace nmct.own.CsvExtension.csv.test
 {
     class Program
     {

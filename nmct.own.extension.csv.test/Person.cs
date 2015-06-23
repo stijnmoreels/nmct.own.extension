@@ -1,10 +1,11 @@
-﻿using System;
+﻿using CsvExtension;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nmct.own.extension.csv.test
+namespace nmct.own.CsvExtension.csv.test
 {
     public class Person
     {
