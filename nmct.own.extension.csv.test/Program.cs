@@ -29,7 +29,6 @@ namespace nmct.own.extension.csv.test
                 bigString += persons.ToCsv<Person>();
                 Console.WriteLine("Big String adding: " + i);
             }
-
             watch.Stop();
             Console.WriteLine("Stop adding...");
         }
