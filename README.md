@@ -3,6 +3,7 @@ Extension Methods
 
 
 Usage:
+Add this file to your project: [CsvExtension] (https://github.com/stijnmoreels/nmct.own.extension/blob/master/CsvExtension.cs)
 
 ## 1. Add "CsvAttribute" to the properties you want to export
 Example Class Person
