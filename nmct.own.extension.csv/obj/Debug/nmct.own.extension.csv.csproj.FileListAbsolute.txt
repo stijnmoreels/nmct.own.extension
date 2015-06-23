@@ -1,0 +1,5 @@
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv\bin\Debug\nmct.own.extension.csv.dll
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv\bin\Debug\nmct.own.extension.csv.pdb
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv\obj\Debug\nmct.own.extension.csv.csprojResolveAssemblyReference.cache
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv\obj\Debug\nmct.own.extension.csv.dll
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.extension\nmct.own.extension.csv\obj\Debug\nmct.own.extension.csv.pdb
